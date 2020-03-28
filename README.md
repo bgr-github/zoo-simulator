@@ -28,3 +28,11 @@ dead straight away.
 The user interface should show the current status of each Animal and contain two
 buttons, one to provoke an hour of time to pass and another to feed the zoo. The UI should
 update to reflect each change in state, and the current time at the zoo.
+
+# To Install
+
+```bash
+git clone https://github.com/bgr-github/zoo-simulator
+cd zoo-simulator
+python zoosimulator.py
+```
