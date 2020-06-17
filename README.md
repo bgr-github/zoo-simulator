@@ -1,5 +1,4 @@
 # Zoo Simulator
-Zoo Simulator is a basic simulator I developed as part of a Python developer job application.
 
 # The Test
 Write a simple Zoo simulator which contains 3 different types of animal
